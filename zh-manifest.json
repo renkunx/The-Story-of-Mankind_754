@@ -1,0 +1,533 @@
+{
+  "bookId": "0961422e-be8a-46cb-93fa-4dd2a3e7a872",
+  "chapters": [
+    {
+      "id": "42c3f6dd-9121-46b4-a9f5-30d61a585791",
+      "path": "00-前言.md",
+      "title": "前言",
+      "sortOrder": 0,
+      "en": "en/00-前言.md",
+      "zh": "zh-CN/00-前言.md"
+    },
+    {
+      "id": "3cd1c16d-a4fa-4524-9dac-ac61fa0ab324",
+      "path": "01-the-setting-of-the-stage.md",
+      "title": "Chapter 1 · The Setting of the Stage",
+      "sortOrder": 1,
+      "en": "en/01-the-setting-of-the-stage.md",
+      "zh": "zh-CN/01-the-setting-of-the-stage.md"
+    },
+    {
+      "id": "c99c361e-3b8b-4eaf-8100-ccf3f75b8772",
+      "path": "02-our-earliest-ancestors.md",
+      "title": "Chapter 2 · Our Earliest Ancestors",
+      "sortOrder": 2,
+      "en": "en/02-our-earliest-ancestors.md",
+      "zh": "zh-CN/02-our-earliest-ancestors.md"
+    },
+    {
+      "id": "ae9a974c-8450-4715-8c3b-65d9f395e8a9",
+      "path": "03-prehistoric-man.md",
+      "title": "Chapter 3 · Prehistoric Man",
+      "sortOrder": 3,
+      "en": "en/03-prehistoric-man.md",
+      "zh": "zh-CN/03-prehistoric-man.md"
+    },
+    {
+      "id": "7864b19a-ca74-4a27-8611-ea7952f94b12",
+      "path": "04-hieroglyphics.md",
+      "title": "Chapter 4 · Hieroglyphics",
+      "sortOrder": 4,
+      "en": "en/04-hieroglyphics.md",
+      "zh": "zh-CN/04-hieroglyphics.md"
+    },
+    {
+      "id": "9969d2a4-75e4-481e-8c98-b95ce3669a7d",
+      "path": "05-the-nile-valley.md",
+      "title": "Chapter 5 · The Nile Valley",
+      "sortOrder": 5,
+      "en": "en/05-the-nile-valley.md",
+      "zh": "zh-CN/05-the-nile-valley.md"
+    },
+    {
+      "id": "01c6b3a3-b37a-4c2e-86e7-7298e0d890c7",
+      "path": "06-the-story-of-egypt.md",
+      "title": "Chapter 6 · The Story of Egypt",
+      "sortOrder": 6,
+      "en": "en/06-the-story-of-egypt.md",
+      "zh": "zh-CN/06-the-story-of-egypt.md"
+    },
+    {
+      "id": "e39fb1bd-b401-4262-b7fb-b49913e29337",
+      "path": "07-mesopotamia.md",
+      "title": "Chapter 7 · Mesopotamia",
+      "sortOrder": 7,
+      "en": "en/07-mesopotamia.md",
+      "zh": "zh-CN/07-mesopotamia.md"
+    },
+    {
+      "id": "8c34b4d2-85c1-4bc4-a694-445896cfb8ad",
+      "path": "08-the-sumerians.md",
+      "title": "Chapter 8 · The Sumerians",
+      "sortOrder": 8,
+      "en": "en/08-the-sumerians.md",
+      "zh": "zh-CN/08-the-sumerians.md"
+    },
+    {
+      "id": "2bceac5f-8501-4dda-a41f-ca2c3a28f16a",
+      "path": "09-moses.md",
+      "title": "Chapter 9 · Moses",
+      "sortOrder": 9,
+      "en": "en/09-moses.md",
+      "zh": "zh-CN/09-moses.md"
+    },
+    {
+      "id": "c1e31908-ba90-4803-9b40-18e54ba95b0b",
+      "path": "10-the-phoenicians.md",
+      "title": "Chapter 10 · The Phoenicians",
+      "sortOrder": 10,
+      "en": "en/10-the-phoenicians.md",
+      "zh": "zh-CN/10-the-phoenicians.md"
+    },
+    {
+      "id": "785464c3-73df-4949-8c91-e7b51ba49fce",
+      "path": "11-the-indo-europeans.md",
+      "title": "Chapter 11 · The Indo-Europeans",
+      "sortOrder": 11,
+      "en": "en/11-the-indo-europeans.md",
+      "zh": "zh-CN/11-the-indo-europeans.md"
+    },
+    {
+      "id": "b48a0cbf-c333-4386-a55d-78ab3a86ce31",
+      "path": "12-the-aegean-sea.md",
+      "title": "Chapter 12 · The Aegean Sea",
+      "sortOrder": 12,
+      "en": "en/12-the-aegean-sea.md",
+      "zh": "zh-CN/12-the-aegean-sea.md"
+    },
+    {
+      "id": "18780128-b1bb-43f8-9489-187166d6d02e",
+      "path": "13-the-greeks.md",
+      "title": "Chapter 13 · The Greeks",
+      "sortOrder": 13,
+      "en": "en/13-the-greeks.md",
+      "zh": "zh-CN/13-the-greeks.md"
+    },
+    {
+      "id": "0f4f02c7-2211-4f23-9000-57808adc47a3",
+      "path": "14-the-greek-cities.md",
+      "title": "Chapter 14 · The Greek Cities",
+      "sortOrder": 14,
+      "en": "en/14-the-greek-cities.md",
+      "zh": "zh-CN/14-the-greek-cities.md"
+    },
+    {
+      "id": "62587cb1-a70b-44a6-83e6-8b5a0f972b05",
+      "path": "15-greek-self-government.md",
+      "title": "Chapter 15 · Greek Self-Government",
+      "sortOrder": 15,
+      "en": "en/15-greek-self-government.md",
+      "zh": "zh-CN/15-greek-self-government.md"
+    },
+    {
+      "id": "8d5604b5-4b70-4a4b-8c3e-6f78a2a292d4",
+      "path": "16-greek-life.md",
+      "title": "Chapter 16 · Greek Life",
+      "sortOrder": 16,
+      "en": "en/16-greek-life.md",
+      "zh": "zh-CN/16-greek-life.md"
+    },
+    {
+      "id": "4947f551-983c-4f56-adff-d8d60d1dbedc",
+      "path": "17-the-greek-theatre.md",
+      "title": "Chapter 17 · The Greek Theatre",
+      "sortOrder": 17,
+      "en": "en/17-the-greek-theatre.md",
+      "zh": "zh-CN/17-the-greek-theatre.md"
+    },
+    {
+      "id": "9903d4d4-d9ab-41e0-9e18-37085de6a4ca",
+      "path": "18-the-persian-wars.md",
+      "title": "Chapter 18 · The Persian Wars",
+      "sortOrder": 18,
+      "en": "en/18-the-persian-wars.md",
+      "zh": "zh-CN/18-the-persian-wars.md"
+    },
+    {
+      "id": "8e59903e-0fbd-489b-8eaf-976f7ecd9fa5",
+      "path": "19-athens-and-sparta.md",
+      "title": "Chapter 19 · Athens and Sparta",
+      "sortOrder": 19,
+      "en": "en/19-athens-and-sparta.md",
+      "zh": "zh-CN/19-athens-and-sparta.md"
+    },
+    {
+      "id": "38505f5a-f841-4b1e-8a26-6d0c06ae44ce",
+      "path": "20-alexander-the-great.md",
+      "title": "Chapter 20 · Alexander the Great",
+      "sortOrder": 20,
+      "en": "en/20-alexander-the-great.md",
+      "zh": "zh-CN/20-alexander-the-great.md"
+    },
+    {
+      "id": "8b98afa1-aa19-4508-8f4e-6f73b33d4ad8",
+      "path": "21-a-summary.md",
+      "title": "Chapter 21 · A Summary",
+      "sortOrder": 21,
+      "en": "en/21-a-summary.md",
+      "zh": "zh-CN/21-a-summary.md"
+    },
+    {
+      "id": "b2cc40ae-777d-4ab2-9df6-bcb22f40a817",
+      "path": "22-rome-and-carthage.md",
+      "title": "Chapter 22 · Rome and Carthage",
+      "sortOrder": 22,
+      "en": "en/22-rome-and-carthage.md",
+      "zh": "zh-CN/22-rome-and-carthage.md"
+    },
+    {
+      "id": "70f65eb7-96de-425b-bdcc-376252ebe373",
+      "path": "23-the-rise-of-rome.md",
+      "title": "Chapter 23 · The Rise of Rome",
+      "sortOrder": 23,
+      "en": "en/23-the-rise-of-rome.md",
+      "zh": "zh-CN/23-the-rise-of-rome.md"
+    },
+    {
+      "id": "cacd5ccf-8d66-45df-8d87-14e5decf3fe4",
+      "path": "24-the-roman-empire.md",
+      "title": "Chapter 24 · The Roman Empire",
+      "sortOrder": 24,
+      "en": "en/24-the-roman-empire.md",
+      "zh": "zh-CN/24-the-roman-empire.md"
+    },
+    {
+      "id": "d1162d2f-e300-4da8-9b1c-0745d6e56970",
+      "path": "25-joshua-of-nazareth.md",
+      "title": "Chapter 25 · Joshua of Nazareth",
+      "sortOrder": 25,
+      "en": "en/25-joshua-of-nazareth.md",
+      "zh": "zh-CN/25-joshua-of-nazareth.md"
+    },
+    {
+      "id": "9cd4239a-87f1-41b7-8e15-c8c9b9cae9cc",
+      "path": "26-the-fall-of-rome.md",
+      "title": "Chapter 26 · The Fall of Rome",
+      "sortOrder": 26,
+      "en": "en/26-the-fall-of-rome.md",
+      "zh": "zh-CN/26-the-fall-of-rome.md"
+    },
+    {
+      "id": "98e96b3b-c919-46c3-b059-73767c3ccd9b",
+      "path": "27-rise-of-the-church.md",
+      "title": "Chapter 27 · Rise of the Church",
+      "sortOrder": 27,
+      "en": "en/27-rise-of-the-church.md",
+      "zh": "zh-CN/27-rise-of-the-church.md"
+    },
+    {
+      "id": "f8d41c12-1c38-40ef-a5fd-7667c7a10217",
+      "path": "28-mohammed.md",
+      "title": "Chapter 28 · Mohammed",
+      "sortOrder": 28,
+      "en": "en/28-mohammed.md",
+      "zh": "zh-CN/28-mohammed.md"
+    },
+    {
+      "id": "baa8f830-ab4b-44f4-b038-67521888b286",
+      "path": "29-charlemagne.md",
+      "title": "Chapter 29 · Charlemagne",
+      "sortOrder": 29,
+      "en": "en/29-charlemagne.md",
+      "zh": "zh-CN/29-charlemagne.md"
+    },
+    {
+      "id": "44a778b4-fb63-496e-a561-2a083525c1dc",
+      "path": "30-the-norsemen.md",
+      "title": "Chapter 30 · The Norsemen",
+      "sortOrder": 30,
+      "en": "en/30-the-norsemen.md",
+      "zh": "zh-CN/30-the-norsemen.md"
+    },
+    {
+      "id": "a1803e91-a23e-49f9-9a0b-8d8d10fae3e5",
+      "path": "31-feudalism.md",
+      "title": "Chapter 31 · Feudalism",
+      "sortOrder": 31,
+      "en": "en/31-feudalism.md",
+      "zh": "zh-CN/31-feudalism.md"
+    },
+    {
+      "id": "0f8e9433-36d4-4574-a1ec-f85025f2c72c",
+      "path": "32-chivalry.md",
+      "title": "Chapter 32 · Chivalry",
+      "sortOrder": 32,
+      "en": "en/32-chivalry.md",
+      "zh": "zh-CN/32-chivalry.md"
+    },
+    {
+      "id": "c29f472f-78c5-4642-bf49-2fbee8bb6eec",
+      "path": "33-the-strange-double-loyalty.md",
+      "title": "Chapter 33 · The Strange Double Loyalty",
+      "sortOrder": 33,
+      "en": "en/33-the-strange-double-loyalty.md",
+      "zh": "zh-CN/33-the-strange-double-loyalty.md"
+    },
+    {
+      "id": "0fb236a0-d8cb-4b4d-86d8-08469d2ef0fe",
+      "path": "34-the-crusades.md",
+      "title": "Chapter 34 · The Crusades",
+      "sortOrder": 34,
+      "en": "en/34-the-crusades.md",
+      "zh": "zh-CN/34-the-crusades.md"
+    },
+    {
+      "id": "23f68bdf-6ad5-444f-b28f-85a6ab39e5c5",
+      "path": "35-the-mediaeval-city.md",
+      "title": "Chapter 35 · The Mediaeval City",
+      "sortOrder": 35,
+      "en": "en/35-the-mediaeval-city.md",
+      "zh": "zh-CN/35-the-mediaeval-city.md"
+    },
+    {
+      "id": "c7c3f4ab-6dc3-401e-a30e-44d69c8481f9",
+      "path": "36-mediaeval-self-government.md",
+      "title": "Chapter 36 · Mediaeval Self-Government",
+      "sortOrder": 36,
+      "en": "en/36-mediaeval-self-government.md",
+      "zh": "zh-CN/36-mediaeval-self-government.md"
+    },
+    {
+      "id": "6a90de86-6345-49c4-b834-5342a10ae28a",
+      "path": "37-the-mediaeval-world.md",
+      "title": "Chapter 37 · The Mediaeval World",
+      "sortOrder": 37,
+      "en": "en/37-the-mediaeval-world.md",
+      "zh": "zh-CN/37-the-mediaeval-world.md"
+    },
+    {
+      "id": "795d4dbb-7c5a-4e12-99fb-7fc281a7b9c2",
+      "path": "38-mediaeval-trade.md",
+      "title": "Chapter 38 · Mediaeval Trade",
+      "sortOrder": 38,
+      "en": "en/38-mediaeval-trade.md",
+      "zh": "zh-CN/38-mediaeval-trade.md"
+    },
+    {
+      "id": "d401a17b-1b43-4f62-9e23-91043e7bc03a",
+      "path": "39-the-renaissance.md",
+      "title": "Chapter 39 · The Renaissance",
+      "sortOrder": 39,
+      "en": "en/39-the-renaissance.md",
+      "zh": "zh-CN/39-the-renaissance.md"
+    },
+    {
+      "id": "6ddfc5f5-faf7-456d-8e96-6e2fd592e0dc",
+      "path": "40-the-age-of-expression.md",
+      "title": "Chapter 40 · The Age of Expression",
+      "sortOrder": 40,
+      "en": "en/40-the-age-of-expression.md",
+      "zh": "zh-CN/40-the-age-of-expression.md"
+    },
+    {
+      "id": "199d1bbc-6cb7-4285-9fdf-70a397ee3438",
+      "path": "41-the-great-discoveries.md",
+      "title": "Chapter 41 · The Great Discoveries",
+      "sortOrder": 41,
+      "en": "en/41-the-great-discoveries.md",
+      "zh": "zh-CN/41-the-great-discoveries.md"
+    },
+    {
+      "id": "13762852-5a2f-4087-8b40-d747e92e3936",
+      "path": "42-buddha-and-confucius.md",
+      "title": "Chapter 42 · Buddha and Confucius",
+      "sortOrder": 42,
+      "en": "en/42-buddha-and-confucius.md",
+      "zh": "zh-CN/42-buddha-and-confucius.md"
+    },
+    {
+      "id": "75c747e8-1c82-4780-bad3-a11424bf1368",
+      "path": "43-the-reformation.md",
+      "title": "Chapter 43 · The Reformation",
+      "sortOrder": 43,
+      "en": "en/43-the-reformation.md",
+      "zh": "zh-CN/43-the-reformation.md"
+    },
+    {
+      "id": "f898a550-1996-4eca-a648-ec65e90d8cf4",
+      "path": "44-religious-warfare.md",
+      "title": "Chapter 44 · Religious Warfare",
+      "sortOrder": 44,
+      "en": "en/44-religious-warfare.md",
+      "zh": "zh-CN/44-religious-warfare.md"
+    },
+    {
+      "id": "46fc1400-1568-457a-9d19-71c8cbc0b4ca",
+      "path": "45-the-english-revolution.md",
+      "title": "Chapter 45 · The English Revolution",
+      "sortOrder": 45,
+      "en": "en/45-the-english-revolution.md",
+      "zh": "zh-CN/45-the-english-revolution.md"
+    },
+    {
+      "id": "38023f17-bbc3-46fe-9ff4-ef532fb83734",
+      "path": "46-the-balance-of-power.md",
+      "title": "Chapter 46 · The Balance of Power",
+      "sortOrder": 46,
+      "en": "en/46-the-balance-of-power.md",
+      "zh": "zh-CN/46-the-balance-of-power.md"
+    },
+    {
+      "id": "7ad05418-a656-4ffe-8ce3-04e02a151e75",
+      "path": "47-the-rise-of-russia.md",
+      "title": "Chapter 47 · The Rise of Russia",
+      "sortOrder": 47,
+      "en": "en/47-the-rise-of-russia.md",
+      "zh": "zh-CN/47-the-rise-of-russia.md"
+    },
+    {
+      "id": "ba57c0a8-21a6-4b36-b1e3-4cbe6d76313b",
+      "path": "48-russia-and-sweden.md",
+      "title": "Chapter 48 · Russia and Sweden",
+      "sortOrder": 48,
+      "en": "en/48-russia-and-sweden.md",
+      "zh": "zh-CN/48-russia-and-sweden.md"
+    },
+    {
+      "id": "f2b1d116-b3f2-4398-ab12-219d9dc56fb5",
+      "path": "49-the-rise-of-prussia.md",
+      "title": "Chapter 49 · The Rise of Prussia",
+      "sortOrder": 49,
+      "en": "en/49-the-rise-of-prussia.md",
+      "zh": "zh-CN/49-the-rise-of-prussia.md"
+    },
+    {
+      "id": "ef35fa96-2f32-4fc7-832f-b0136d8af5f6",
+      "path": "50-the-mercantile-system.md",
+      "title": "Chapter 50 · The Mercantile System",
+      "sortOrder": 50,
+      "en": "en/50-the-mercantile-system.md",
+      "zh": "zh-CN/50-the-mercantile-system.md"
+    },
+    {
+      "id": "bfb5fc3c-083a-4b7f-9246-c5c8d1245df6",
+      "path": "51-the-american-revolution.md",
+      "title": "Chapter 51 · The American Revolution",
+      "sortOrder": 51,
+      "en": "en/51-the-american-revolution.md",
+      "zh": "zh-CN/51-the-american-revolution.md"
+    },
+    {
+      "id": "d09f071b-27e0-4ff3-af9d-db270bc7b6b4",
+      "path": "52-the-french-revolution.md",
+      "title": "Chapter 52 · The French Revolution",
+      "sortOrder": 52,
+      "en": "en/52-the-french-revolution.md",
+      "zh": "zh-CN/52-the-french-revolution.md"
+    },
+    {
+      "id": "8cc73b76-cd0b-422c-8b0f-6ab7f388e04c",
+      "path": "53-napoleon.md",
+      "title": "Chapter 53 · Napoleon",
+      "sortOrder": 53,
+      "en": "en/53-napoleon.md",
+      "zh": "zh-CN/53-napoleon.md"
+    },
+    {
+      "id": "754dca2c-3c4c-45cf-8f40-a38cc98a7bb2",
+      "path": "54-the-holy-alliance.md",
+      "title": "Chapter 54 · The Holy Alliance",
+      "sortOrder": 54,
+      "en": "en/54-the-holy-alliance.md",
+      "zh": "zh-CN/54-the-holy-alliance.md"
+    },
+    {
+      "id": "80db5bdf-e895-43d2-93a2-457bbdce8881",
+      "path": "55-the-great-reaction.md",
+      "title": "Chapter 55 · The Great Reaction",
+      "sortOrder": 55,
+      "en": "en/55-the-great-reaction.md",
+      "zh": "zh-CN/55-the-great-reaction.md"
+    },
+    {
+      "id": "b45cb560-2b66-4dc2-930e-93222bf77931",
+      "path": "56-national-independence.md",
+      "title": "Chapter 56 · National Independence",
+      "sortOrder": 56,
+      "en": "en/56-national-independence.md",
+      "zh": "zh-CN/56-national-independence.md"
+    },
+    {
+      "id": "239c9920-c1eb-4ae4-9622-2d06346c5840",
+      "path": "57-the-age-of-the-engine.md",
+      "title": "Chapter 57 · The Age of the Engine",
+      "sortOrder": 57,
+      "en": "en/57-the-age-of-the-engine.md",
+      "zh": "zh-CN/57-the-age-of-the-engine.md"
+    },
+    {
+      "id": "dabc7da0-48d8-40e2-9f7e-813a67a0aa29",
+      "path": "58-the-social-revolution.md",
+      "title": "Chapter 58 · The Social Revolution",
+      "sortOrder": 58,
+      "en": "en/58-the-social-revolution.md",
+      "zh": "zh-CN/58-the-social-revolution.md"
+    },
+    {
+      "id": "db1153c5-9927-4011-91fc-1690bca6a40c",
+      "path": "59-emancipation.md",
+      "title": "Chapter 59 · Emancipation",
+      "sortOrder": 59,
+      "en": "en/59-emancipation.md",
+      "zh": "zh-CN/59-emancipation.md"
+    },
+    {
+      "id": "163bb7ef-7b86-4c91-a248-7ff0b6af2282",
+      "path": "60-the-age-of-science.md",
+      "title": "Chapter 60 · The Age of Science",
+      "sortOrder": 60,
+      "en": "en/60-the-age-of-science.md",
+      "zh": "zh-CN/60-the-age-of-science.md"
+    },
+    {
+      "id": "d6fb6661-7556-4c18-b3e0-f90875385403",
+      "path": "61-a-chapter-of-art.md",
+      "title": "Chapter 61 · A Chapter of Art",
+      "sortOrder": 61,
+      "en": "en/61-a-chapter-of-art.md",
+      "zh": "zh-CN/61-a-chapter-of-art.md"
+    },
+    {
+      "id": "73f18390-4349-440b-b391-250d1179e918",
+      "path": "62-the-last-fifty-years.md",
+      "title": "Chapter 62 · The Last Fifty Years",
+      "sortOrder": 62,
+      "en": "en/62-the-last-fifty-years.md",
+      "zh": "zh-CN/62-the-last-fifty-years.md"
+    },
+    {
+      "id": "aaf2b6c2-591f-4588-b461-4c75a3b07a00",
+      "path": "63-the-great-war.md",
+      "title": "Chapter 63 · The Great War",
+      "sortOrder": 63,
+      "en": "en/63-the-great-war.md",
+      "zh": "zh-CN/63-the-great-war.md"
+    },
+    {
+      "id": "152cdbdb-e131-4975-8954-f4103ab199e5",
+      "path": "64-appendix-a-concerning-the-pictures.md",
+      "title": "Appendix A · Concerning the Pictures",
+      "sortOrder": 64,
+      "en": "en/64-appendix-a-concerning-the-pictures.md",
+      "zh": "zh-CN/64-appendix-a-concerning-the-pictures.md"
+    },
+    {
+      "id": "de8f44ab-5ff9-4d1e-830c-7ee6826ea545",
+      "path": "65-appendix-b-an-historical-reading-list-for-children.md",
+      "title": "Appendix B · An Historical Reading List for Children",
+      "sortOrder": 65,
+      "en": "en/65-appendix-b-an-historical-reading-list-for-children.md",
+      "zh": "zh-CN/65-appendix-b-an-historical-reading-list-for-children.md"
+    }
+  ]
+}
